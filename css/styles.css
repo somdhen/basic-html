@@ -1,0 +1,56 @@
+body {
+  margin: 10px;
+}
+
+.profile-image {
+  width: 100px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 20px;
+}
+
+.username {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+/* Images */
+.image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Video */
+.video {
+  width: 600px;
+  margin-left: 100px;
+}
+
+/* Lists */
+ul {
+  list-style-type: none;
+}
+
+/* Tables */
+table,
+td,
+th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+tfoot {
+  text-align: left;
+}
+
+/* Container */
+.container {
+  background-color: red;
+  padding: 10px 20px;
+}
+
+.highlight {
+  background-color: yellow;
+}

@@ -1,0 +1,23 @@
+body {
+  margin: 10px;
+  background-color: #f7f7f7;
+}
+
+.products {
+  margin: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: dodgerblue;
+  box-shadow: 0 0 20px 5px gray;
+  /* transition: box-shadow 0.5s; */
+}
+
+/* .products:hover {
+  box-shadow: 0 0 20px 3px gray;
+} */
+
+h2 {
+  color: #fff;
+  padding: 10px;
+  text-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.2);
+}
